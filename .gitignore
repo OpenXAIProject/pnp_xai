@@ -1,0 +1,7 @@
+**/.DS_STORE
+**/*.pyc
+__pycache__/
+**/*.swp
+MANIFEST
+*.egg-info
+*/.ipynb_checkpoints/*
